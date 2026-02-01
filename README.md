@@ -10,51 +10,51 @@ The project is being built as part of the AWS AI for Bharat / 10,000 AIdeaS Hack
 
 ## Problem Statement
 
-First-generation learners from Tier-2 and Tier-3 regions often lack:
+* First-generation learners from Tier-2 and Tier-3 regions often lack:
 
-Access to career mentors and counsellors
+* Access to career mentors and counsellors
 
-Awareness of career paths and required skills
+* Awareness of career paths and required skills
 
-Structured guidance to bridge education-to-employment gaps
+* Structured guidance to bridge education-to-employment gaps
 
-This results in career confusion, skill mismatch, and underemployment despite formal education.
+* This results in career confusion, skill mismatch, and underemployment despite formal education.
 
 ## Solution
 
 SkillBridge AI provides:
 
-AI-driven career recommendations based on user background and interests
+* AI-driven career recommendations based on user background and interests
 
-Skill gap analysis aligned with industry roles
+* Skill gap analysis aligned with industry roles
 
-Personalized learning roadmaps using free, trusted resources
+* Personalized learning roadmaps using free, trusted resources
 
-Multilingual support to improve accessibility
+* Multilingual support to improve accessibility
 
-The platform is cloud-native, privacy-first, and designed for large-scale adoption.
+* The platform is cloud-native, privacy-first, and designed for large-scale adoption.
 
 ## Target Users
 
-First-generation college students
+* First-generation college students
 
-Rural and semi-urban youth
+* Rural and semi-urban youth
 
-Underserved learners seeking career clarity
+* Underserved learners seeking career clarity
 
 ## Core Features (MVP)
 
-Career recommendation engine
+* Career recommendation engine
 
-Skill gap identification
+* Skill gap identification
 
-Personalized skill roadmap generation
+* Personalized skill roadmap generation
 
-Curated free learning resources
+* Curated free learning resources
 
-English + Hindi language support
+* English + Hindi language support
 
-Mobile-first web experience
+* Mobile-first web experience
 
 ## Architecture & Design
 
@@ -62,17 +62,17 @@ The system follows a serverless, AWS-native architecture, using AI services for 
 
 Key services include:
 
-Amazon SageMaker – ML-based career recommendation
+* Amazon SageMaker – ML-based career recommendation
 
-Amazon Bedrock – Natural language explanations and roadmap generation
+* Amazon Bedrock – Natural language explanations and roadmap generation
 
-Amazon Bedrock AgentCore – Multi-step AI reasoning orchestration
+* Amazon Bedrock AgentCore – Multi-step AI reasoning orchestration
 
-AWS Lambda & API Gateway – Backend logic and APIs
+* AWS Lambda & API Gateway – Backend logic and APIs
 
-DynamoDB & S3 – Data and content storage
+* DynamoDB & S3 – Data and content storage
 
-Amazon Translate – Multilingual support
+* Amazon Translate – Multilingual support
 
 ## Detailed specifications and design decisions are available in:
 
@@ -82,13 +82,13 @@ design.md
 
 ## Responsible AI & Privacy
 
-No collection of sensitive personal data
+* No collection of sensitive personal data
 
-Explainable, non-deterministic recommendations
+* Explainable, non-deterministic recommendations
 
-Multiple career options provided (no single-path forcing)
+* Multiple career options provided (no single-path forcing)
 
-Bias-aware and inclusive design principles
+* Bias-aware and inclusive design principles
 
 ## Project Status
 
@@ -108,13 +108,13 @@ AWS AI for Bharat / 10,000 AIdeaS Hackathon
 
 Submission includes:
 
-requirements.md
+* requirements.md
 
-design.md
+* design.md
 
-Presentation deck (PDF)
+* Presentation deck (PDF)
 
-No GitHub deployment is required at this stage.
+* No GitHub deployment is required at this stage.
 
 ## Team
 
@@ -123,10 +123,10 @@ Team Lead: Shivam Yadav
 
 ## Future Scope
 
-Job market trend integration
+* Job market trend integration
 
-Mentor matching system
+* Mentor matching system
 
-WhatsApp / SMS-based guidance
+* WhatsApp / SMS-based guidance
 
-Government and academic institution partnerships
+* Government and academic institution partnerships
